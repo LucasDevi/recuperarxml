@@ -1,0 +1,15 @@
+#summary Características do sistema
+
+  * Inserindo várias chaves de acesso o sistema faz o download de todas elas sem a digitação das imagens.
+
+  * Sem limitação de quantidade de downloads para as versões pagas.
+
+  * O sistema organiza suas NF-e's (Nota Fiscal Eletrônica): Visualização das DANFes e geração dos arquivos PDF, com opção para separar por CNPJ e competência.
+
+  * Impressão da NF-e em modo retrato, paisagem e simplificado.
+
+  * Visualização e impressão da NFC-e (Nota fiscal eletrônica de consumidor) em modo detalhado e ecológico.
+
+  * Compatível com a versão 1.0 e 2.0 da NF-e e o único sistema pronto para a versão 3.10 da NF-e.
+
+  * Compatibilidade com qualquer versão do Sistema Operacional Windows em 32 ou 64 bits.
