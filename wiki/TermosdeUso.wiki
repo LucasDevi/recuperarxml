@@ -1,0 +1,7 @@
+#summary Termos de uso do serviço
+
+Copyright (c) Todos os direitos reservados.
+
+Este sistema é uma propriedade intelectual e confidencial dos seus proprietários. Nenhuma parte do mesmo pode ser copiada, reproduzida, impressa ou transmitida por qualquer meio sem autorização expressa e por escrito de um representante legal do sistema.
+
+Parte do software RecuperarXML são atribuições de empresas e projetos [http://pt.wikipedia.org/wiki/Software_livre open source] que contribuíram com código-fonte e são devidamente qualificadas [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo neste endereço].
