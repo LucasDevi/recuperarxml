@@ -1,0 +1,21 @@
+#summary Atribuição de código
+
+Parte do software RecuperarXML são atribuições de empresas e projetos [http://pt.wikipedia.org/wiki/Software_livre open source] que contribuíram com código-fonte, tais como:
+
+  * [http://acbr.sourceforge.net ACBr] - Automação Comercial Brasil. Licença LGPL.
+
+  * [http://code.google.com/p/cnpack CnPack]. Licença LGPL.
+
+  * [http://www.fortesreport.com.br Fortes Report]. Licença GPL.
+
+  * [http://www.gimp.org Gimp]. Licenças LGPL e GPL versão 3.
+
+  * [http://git-scm.com Git]. Licença GPL versão 2.
+
+  * [http://google.com Google]. Licença Apache 2.0
+
+  * [http://nsis.sourceforge.net/Main_Page NSIS] - Nullsoft Install System. [http://nsis.sourceforge.net/License Várias licenças] e [http://nsis.sourceforge.net/Inetc_plug-in Inetc plugin] for NSIS.
+
+  * [https://www.openssl.org OpenSSL Project]. Licença [https://www.openssl.org/source/license.html OpenSSL].
+ 
+  * [http://upx.sourceforge.net UPX]. Copyright Markus Franz Xaver Johannes Oberhumer, László Molnár, John F. Reiser
