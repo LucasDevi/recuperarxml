@@ -1,0 +1,11 @@
+ #summary Versões do sistema
+
+=== 14.05.01 ===
+  * Data 01/05/2014
+  * Última versão liberada.
+  * Versão mínima vigente.
+
+=== 14.04.01 ===
+  * Data 01/04/2014
+  * Versão de testes. 
+  
