@@ -10,4 +10,4 @@
   * Versão de testes. 
 
 ===Veja também===
-  * [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo Atribuição de código-fonte] 
+  * [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo Atribuição do código-fonte à terceiros] 
