@@ -11,3 +11,4 @@
 
 ===Veja também===
   * [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo Atribuição do código-fonte à terceiros] 
+  * [http://code.google.com/p/recuperarxml/wiki/TermosdeUso Termos de uso do software]
