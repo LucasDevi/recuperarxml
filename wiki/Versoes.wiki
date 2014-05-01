@@ -8,4 +8,6 @@
 === 14.04.01 ===
   * Data 01/04/2014
   * Versão de testes. 
-  
+
+===Veja também===
+  * [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo Atribuição de código-fonte] 
