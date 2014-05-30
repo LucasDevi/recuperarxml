@@ -21,7 +21,7 @@ O sistema compara o e-mail cadastrado no sistema com o e-mail que efetuou o paga
 
 ===O que é Pag Seguro===
 
-O site Pag Seguro (http://www.pagseguro.com.br] é uma empresa da UOL (http://www.uol.com.br) com renome nacional e internacional em serviços de internet e oferece total segurança para pagamentos pela internet.
+O site Pag Seguro (http://www.pagseguro.com.br) é uma empresa da UOL (http://www.uol.com.br) com renome nacional e internacional em serviços de internet e oferece total segurança para pagamentos pela internet.
 
 ===Formas de pagamento===
 
