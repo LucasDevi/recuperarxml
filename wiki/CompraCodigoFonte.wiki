@@ -1,0 +1,23 @@
+#summary Página com informações sobre a compra do código-fonte do sistema
+
+Existem duas formas de compra do sistema: uma é o código-fonte completo e outra é a leitura da imagem/captcha do Portal da NF-e, com isso, a possibilidade de baixa em lote dos XML da NF-e sem a digitação das imagens.
+
+
+==Código-fonte completo==
+
+  * Linguagem de programação Object Pascal utilizando a IDE da Embarcadero Delphi XE2.
+
+  * Instalação das dependências descritas [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo aqui].
+
+
+==Leitura automática da imagem/captcha==
+
+  * Linguagem de programação Object Pascal utilizando a IDE da Borland Delphi 7 ou Embarcadero Delphi XE2.
+
+  * Instalação do componente ACBr.
+
+==Entre em contato para mais informações==
+
+  * E-mail: recuperarxml@gmail.com
+
+  * Mensagem diretamente no [http://recuperarxml.wix.com/recuperarxml site].
