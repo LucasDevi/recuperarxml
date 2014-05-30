@@ -1,8 +1,12 @@
 #summary Versões do sistema
 
+=== 14.05.30 ===
+  * Data 30/05/2014
+  * Última versão liberada.
+  * Correção de mensagens e validações na inicialização do sistema.
+
 === 14.05.01 ===
   * Data 01/05/2014
-  * Última versão liberada.
   * Versão mínima vigente.
 
 === 14.04.01 ===
