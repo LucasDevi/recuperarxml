@@ -1,8 +1,13 @@
 #summary Versões do sistema
 
+=== 14.06.04 ===
+  * Data 04/06/2014
+  * Última versão liberada.
+  * Leitura correta dos grupos de IPI, PIS e COFINS dos produtos.
+  * Alteração do período de testes do software para 30 dias ou download de 100 arquivos XML.
+
 === 14.05.30 ===
   * Data 30/05/2014
-  * Última versão liberada.
   * Correção de mensagens e validações na inicialização do sistema.
 
 === 14.05.01 ===
