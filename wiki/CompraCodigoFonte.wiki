@@ -5,14 +5,14 @@ Existem duas formas de compra do sistema: uma é o código-fonte completo e outr
 
 ==Código-fonte completo==
 
-  * Linguagem de programação Object Pascal utilizando a IDE da Embarcadero Delphi XE2.
+  * Linguagem de programação Object Pascal utilizando a IDE Delphi em qualquer versão.
 
   * Instalação das dependências descritas [http://code.google.com/p/recuperarxml/wiki/AtribuicaodeCodigo aqui].
 
 
 ==Leitura automática da imagem/captcha==
 
-  * Linguagem de programação Object Pascal utilizando a IDE da Borland Delphi 7 ou Embarcadero Delphi XE2.
+  * Linguagem de programação Object Pascal utilizando a IDE Delphi em qualquer versão.
 
   * Instalação do componente ACBr.
 
