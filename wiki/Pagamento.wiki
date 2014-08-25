@@ -1,6 +1,6 @@
 #summary Informações sobre pagamentos
 
-Após iniciado o sistema pela primeira vez, o sistema registra o computador e disponibiliza 10 dias ou 100 downloads de arquivos XML sem custos, após este período o sistema ficará com algumas funcionalidades bloqueadas, uma delas é a baixa dos arquivos XML.
+Após iniciado o sistema pela primeira vez, o sistema registra o computador e disponibiliza 30 dias ou 5 downloads de arquivos XML sem custos, após este período o sistema ficará com algumas funcionalidades bloqueadas, uma delas é a baixa dos arquivos XML.
 
 Na contratação de um plano obtém-se a liberação total e sem limites de downloads, obedecendo o período do plano contratado. Vejamos os planos:
 
