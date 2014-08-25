@@ -8,10 +8,6 @@ Parte do software RecuperarXML são atribuições de empresas e projetos [http:/
 
   * [http://www.fortesreport.com.br Fortes Report]. Licença GPL.
 
-  * [http://www.gimp.org Gimp]. Licenças LGPL e GPL versão 3.
-
-  * [http://git-scm.com Git]. Licença GPL versão 2.
-
   * [http://google.com Google]. Licença Apache 2.0
 
   * [http://nsis.sourceforge.net/Main_Page NSIS] - Nullsoft Install System. [http://nsis.sourceforge.net/License Várias licenças] e [http://nsis.sourceforge.net/Inetc_plug-in Inetc plugin] for NSIS.
