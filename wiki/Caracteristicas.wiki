@@ -1,6 +1,6 @@
 #summary Características do sistema
 
-  * Inserindo várias chaves de acesso o sistema faz o download de todas elas sem a digitação das imagens.
+  * Inserindo várias chaves de acesso o sistema faz o download de todas elas.
 
   * Sem limitação de quantidade de downloads para as versões pagas.
 
@@ -10,6 +10,6 @@
 
   * Visualização e impressão da NFC-e (Nota fiscal eletrônica de consumidor) em modo detalhado e ecológico.
 
-  * Compatível com a versão 1.0 e 2.0 da NF-e e o único sistema pronto para a versão 3.10 da NF-e.
+  * Compatível com a versão 1.0, 2.0 e 3.10 da NF-e.
 
   * Compatibilidade com qualquer versão do Sistema Operacional Windows em 32 ou 64 bits.
