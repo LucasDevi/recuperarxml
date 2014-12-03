@@ -8,10 +8,6 @@ Parte do software RecuperarXML são atribuições de empresas e projetos [http:/
 
   * [http://www.fortesreport.com.br Fortes Report]. Licença GPL.
 
-  * [http://google.com Google]. Licença Apache 2.0
-
   * [http://nsis.sourceforge.net/Main_Page NSIS] - Nullsoft Install System. [http://nsis.sourceforge.net/License Várias licenças] e [http://nsis.sourceforge.net/Inetc_plug-in Inetc plugin] for NSIS.
 
-  * [https://www.openssl.org OpenSSL Project]. Licença [https://www.openssl.org/source/license.html OpenSSL].
- 
   * [http://upx.sourceforge.net UPX]. Copyright Markus Franz Xaver Johannes Oberhumer, László Molnár, John F. Reiser
