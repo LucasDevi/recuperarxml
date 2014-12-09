@@ -1,9 +1,14 @@
 #summary Versões do sistema
 
-=== 14.12.08 ===
-  * Data 08/12/2014
+=== 14.12.09 ===
+  * Data 09/12/2014
   * Última versão liberada.
   * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 01/01/2015.
+  * Correções na formação do grupo Destinatário (dest) da NFC-e.
+  * Correção do erro "List Index Out Of Bounds (2)" na tela de início.
+
+=== 14.12.08 ===
+  * Data 08/12/2014
   * O software RecuperarXML agora faz a importação do XML da NFC-e com origem da SEFAZ-MT.
   * Correções na importação da NF-e no grupo de ICMS Substituição tributária e Simples Nacional.
 
