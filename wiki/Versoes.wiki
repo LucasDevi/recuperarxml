@@ -1,9 +1,15 @@
 #summary Versões do sistema
 
+=== 14.12.08 ===
+  * Data 08/12/2014
+  * Última versão liberada.
+  * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 01/01/2015.
+  * O software RecuperarXML agora faz a importação do XML da NFC-e com origem da SEFAZ-MT.
+  * Correções na importação da NF-e no grupo de ICMS Substituição tributária e Simples Nacional.
+
 === 14.09.22 ===
   * Data 22/09/2014
   * Alteração no período de testes para 1 ano com limite de 5 downloads.
-  * Última versão liberada.
   * Correção na conversão da imagem formato Base64 para o formato PNG.
   * Corrigida a compatibilização com todas versões do sistema operacional Microsoft Windows.
 
