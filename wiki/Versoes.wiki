@@ -3,7 +3,7 @@
 === 14.12.09 ===
   * Data 09/12/2014
   * Última versão liberada.
-  * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 01/01/2015.
+  * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 15/12/2014.
   * Correções na formação do grupo Destinatário (dest) da NFC-e.
   * Correção do erro "List Index Out Of Bounds (2)" na tela de início.
 
