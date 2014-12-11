@@ -5,20 +5,20 @@
   * Última versão liberada.
   * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 15/12/2014.
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
-  * NFC-e: Correções na formação das tags <CNPJ> e <CPF> dos grupos de emitente <emit> e destinatário <dest>.
-  * NFC-e: Correções na formação do grupo destinatário <dest>.
-  * NFC-e: Correção na formação do número da NFC-e <nNF>.
+  * NFC-e: Correções na formação das tags (CNPJ) e (CPF) dos grupos de emitente (emit) e destinatário (dest).
+  * NFC-e: Correções na formação do grupo destinatário (dest).
+  * NFC-e: Correção na formação do número da NFC-e (nNF).
 
 === 14.12.08 ===
   * Data 08/12/2014
-  * NFC-e: O software RecuperarXML agora faz a importação do XML da NFC-e com origem da SEFAZ-MT.
   * NF-e: Correções na importação da NF-e no grupo de ICMS Substituição tributária e Simples Nacional.
+  * NFC-e: O software RecuperarXML agora faz a importação do XML da NFC-e com origem da SEFAZ-MT.
 
 === 14.09.22 ===
   * Data 22/09/2014
   * Interface: Alteração no período de testes para 1 ano com limite de 5 downloads.
-  * NF-e: Correção na conversão da imagem formato Base64 para o formato PNG.
   * Interface: Corrigida a compatibilização com todas versões do sistema operacional Microsoft Windows.
+  * NF-e: Correção na conversão da imagem formato Base64 para o formato PNG.
 
 === 14.08.06 ===
   * Data 06/08/2014
