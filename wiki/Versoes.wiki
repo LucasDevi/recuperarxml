@@ -7,7 +7,9 @@
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
   * NFC-e: Correções na formação das tags (CNPJ) e (CPF) dos grupos de emitente (emit) e destinatário (dest).
   * NFC-e: Correções na formação do grupo destinatário (dest).
+  * NFC-e: Correção na formação da tag (vProd).
   * NFC-e: Correção na formação do número da NFC-e (nNF).
+  * NF-e: Correção na formação do tipo de impressão da DANFe (tpImp).
 
 === 14.12.08 ===
   * Data 08/12/2014
