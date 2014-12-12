@@ -1,7 +1,7 @@
 #summary Versões do sistema
 
 === 14.12.09 ===
-  * Data 10/12/2014
+  * Data 12/12/2014
   * Última versão liberada.
   * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 15/12/2014.
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
