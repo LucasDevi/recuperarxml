@@ -1,9 +1,15 @@
 #summary Versões do sistema
 
+=== Próxima versão ===
+  * Data prevista para 01/01/2015
+  * A versão mínima vigente passará da versão 14.08.06 para esta versão.
+  * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
+  * Interface: Corrigido a abertura da tela de escolha do arquivo XML a imprimir.
+  * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
+
 === 14.12.09 ===
   * Data 12/12/2014
   * Última versão liberada.
-  * A versão mínima vigente passará da versão 14.08.06 para esta versão a partir de 15/12/2014.
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
   * NFC-e: Correções na formação das tags (CNPJ) e (CPF) dos grupos de emitente (emit) e destinatário (dest).
   * NFC-e: Correções na formação do grupo destinatário (dest).
