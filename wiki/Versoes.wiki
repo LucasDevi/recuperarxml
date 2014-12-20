@@ -1,13 +1,15 @@
 #summary Versões do sistema
 
 === Próxima versão ===
-  * Data prevista para 01/01/2015
   * A versão mínima vigente passará da versão 14.08.06 para esta versão.
   * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
   * Interface: Corrigido a abertura da tela de escolha do arquivo XML a imprimir.
   * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
   * NFC-e: Correção do foco dos campos chave de acesso e digitação da imagem.
-  * Novo: Opção para envio de e-mails dos arquivos XML.
+  * Instalador: Incluído uma nova tela para aceitação dos termos de utilização do software.
+
+=== A Fazer ===
+  * Opção para envio de e-mail dos arquivos XML.
 
 === 14.12.09 ===
   * Data 12/12/2014
