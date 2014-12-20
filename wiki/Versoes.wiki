@@ -10,6 +10,7 @@
 
 === A Fazer ===
   * Opção para envio de e-mail dos arquivos XML.
+  * Recuperar o arquivo XML da NFC-e dos Estados do Rio Grande do Sul, Paraná e Rio de Janeiro.
 
 === 14.12.09 ===
   * Data 12/12/2014
