@@ -1,8 +1,7 @@
 #summary Conexão com a Internet
 
-Todas as consultas realizadas pelo sistema necessitam de acesso aos endereços de internet e portas abaixo que devem estar liberados na sua aplicação e firewall.
+Todas as consultas realizadas pelo sistema necessitam de acesso aos endereços e portas de internet abaixo que devem estar liberados na sua aplicação e firewall.
 
-* Endereços:
   * pool.ntp.br Porta UDP 123
   * 50.115.33.88 Porta TCP 3306
   * Para NF-e: http://www.nfe.fazenda.gov.br
