@@ -6,12 +6,10 @@
 
   * O sistema organiza suas NF-e's (Nota Fiscal Eletrônica) e também as NFC-e's (Nota Fiscal de Consumidor Eletrônica): Visualização das DANFes e geração dos arquivos PDF, com opção para separar por CNPJ e competência.
 
-  * Impressão da NF-e em modo retrato, paisagem e simplificado.
+  * Visualização e impressão da NF-e em modo retrato, paisagem e simplificado.
 
-  * Impressão da NFC-e em formato bobina completo (detalhamento dos produtos) e ecológico (sem os produtos).
+  * Visualização e impressão da NFC-e em modo detalhado e ecológico.
 
-  * Visualização e impressão da NFC-e (Nota fiscal eletrônica de consumidor) em modo detalhado e ecológico.
+  * Compatível com a versão 1.0, 2.0 e 3.10 da NF-e e 3.0 e 3.10 da NFC-e.
 
-  * Compatível com a versão 1.0, 2.0 e 3.10 da NF-e.
-
-  * Compatibilidade com qualquer versão do Sistema Operacional Windows em 32 ou 64 bits.
+  * Compatibilidade com qualquer versão do Sistema Operacional Microsoft Windows em 32 ou 64 bits.
