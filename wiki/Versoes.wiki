@@ -1,26 +1,27 @@
 #summary Versões do sistema
 
-=== Próxima versão ===
-  * A versão mínima vigente passará da versão 14.08.06 para esta versão.
-  * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
-  * Interface: Corrigido a abertura da tela de escolha do arquivo XML a imprimir.
-  * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
-  * NFC-e: Correção do foco dos campos chave de acesso e digitação da imagem.
-  * Instalador: Incluído uma nova tela para aceitação dos termos de utilização do software.
-
-=== A Fazer ===
+=== A fazer ===
   * Opção para envio de e-mail dos arquivos XML.
   * Recuperar o arquivo XML da NFC-e dos Estados do Rio Grande do Sul, Paraná e Rio de Janeiro.
 
+=== Próxima versão ===
+  * Consolidação das alterações realizadas na versão 14.12.09
+  * A versão mínima vigente passará da versão 14.08.06 para esta versão.
+
 === 14.12.09 ===
-  * Data 12/12/2014
+  * Data 20/12/2014
   * Última versão liberada.
+  * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
+  * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
+  * Interface: Corrigido a escolha do arquivo XML a imprimir.
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
   * NFC-e: Correções na formação das tags (CNPJ) e (CPF) dos grupos de emitente (emit) e destinatário (dest).
   * NFC-e: Correções na formação do grupo destinatário (dest).
   * NFC-e: Correção na formação da tag (vProd).
   * NFC-e: Correção na formação do número da NFC-e (nNF).
+  * NFC-e: Correção do foco dos campos chave de acesso e digitação da imagem.
   * NF-e: Correção na formação do tipo de impressão da DANFe (tpImp).
+  * Instalador: Incluído uma nova tela para aceitação dos termos de utilização do software.
 
 === 14.12.08 ===
   * Data 08/12/2014
