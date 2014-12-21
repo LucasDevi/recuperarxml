@@ -10,7 +10,7 @@
 
 === 14.12.09 ===
   * Data 20/12/2014
-  * Última versão liberada.
+  * *Última versão liberada.*
   * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
   * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
   * Interface: Corrigido a escolha do arquivo XML a imprimir.
@@ -36,7 +36,7 @@
 
 === 14.08.06 ===
   * Data 06/08/2014
-  * Versão mínima vigente.
+  * *Versão mínima vigente.*
   * NF-e: Correção do layout do Portal da NF-e alterado pela Receita Federal dia 06/08/2014.
 
 === 14.06.04 ===
