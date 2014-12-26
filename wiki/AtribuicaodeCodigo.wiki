@@ -4,10 +4,4 @@ Parte do software RecuperarXML são atribuições de empresas e projetos [http:/
 
   * [http://acbr.sourceforge.net ACBr] - Automação Comercial Brasil. Licença LGPL.
 
-  * [http://code.google.com/p/cnpack CnPack]. Licença LGPL.
-
   * [http://www.fortesreport.com.br Fortes Report]. Licença GPL.
-
-  * [http://nsis.sourceforge.net/Main_Page NSIS] - Nullsoft Install System. [http://nsis.sourceforge.net/License Várias licenças] e [http://nsis.sourceforge.net/Inetc_plug-in Inetc plugin] for NSIS.
-
-  * [http://upx.sourceforge.net UPX]. Copyright Markus Franz Xaver Johannes Oberhumer, László Molnár, John F. Reiser
