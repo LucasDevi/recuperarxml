@@ -3,7 +3,6 @@
 === Próxima versão ===
   * Consolidação das alterações realizadas na versão 14.12.09
   * A versão mínima vigente passará da versão 14.08.06 para esta versão.
-  * Inserção de várias chaves de acesso da NFC-e para gerar o arquivo XML.
 
 === 14.12.09 ===
   * Data 20/12/2014
@@ -12,6 +11,7 @@
   * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
   * Interface: Corrigido a escolha do arquivo XML a imprimir.
   * Interface: Correção do erro "List Index Out Of Bounds (2)" na tela de início ocasionada pela versão 14.12.08.
+  * NFC-e: Inserção de várias chaves de acesso para gerar o arquivo XML.
   * NFC-e: Correções na formação das tags (CNPJ) e (CPF) dos grupos de emitente (emit) e destinatário (dest).
   * NFC-e: Correções na formação do grupo destinatário (dest).
   * NFC-e: Correção na formação da tag (vProd).
