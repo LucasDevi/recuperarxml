@@ -5,7 +5,7 @@
   * A versão mínima vigente passará da versão 14.08.06 para esta versão.
 
 === 14.12.09 ===
-  * Data 29/12/2014
+  * Data 30/12/2014
   * *Última versão liberada.*
   * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
   * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
