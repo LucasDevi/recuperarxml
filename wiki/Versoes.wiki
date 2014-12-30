@@ -4,6 +4,13 @@
   * Consolidação das alterações realizadas na versão 14.12.09
   * A versão mínima vigente passará da versão 14.08.06 para esta versão.
 
+  * NFC-e: Correção da tag indFinal (Indicador de Consumidor final). 
+  * NFC-e: Correção da tag indPres (Indicador de Presença do Comprador).
+  * NFC-e: Correção da tag indIEDest (Indicador da Inscrição Estadual).
+  * NFC-e: Correção da tag tpImp (Tipo de impressão da DANFCe).
+  * NFC-e: Adição do grupo pag (Formas de Pagamento).
+  * NFC-e: Adição do grupo infAdic (Informações adicionais). 
+
 === 14.12.09 ===
   * Data 20/12/2014
   * *Última versão liberada.*
