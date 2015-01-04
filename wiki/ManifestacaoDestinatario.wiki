@@ -1,6 +1,6 @@
 #summary O que é a Manifestação do Destinatário
 
-=== O que é a Manifestação do Destinatário===
+=== O que é a Manifestação do Destinatário?===
 Este conjunto de eventos que permite que o destinatário da NF-e possa se manifestar sobre a sua participação comercial descrita na NF-e, confirmando as informações prestadas pelo seu fornecedor e emissor do respectivo documento fiscal. Este processo é composto de quatro eventos:
 
   # Ciência da Emissão
@@ -13,3 +13,5 @@ As alterações realizadas no [http://www.fazenda.gov.br/confaz/confaz/ajustes/2
 
 O processo de Manifestação do Destinatário se encontra publicada na [http://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=bUBJ/PmtKQo= Nota Técnica 2012.002] no Portal da NF-e do site da Receita Federal do Brasil.
 
+=== Como o software RecuperarXML utiliza estas operações? ===
+Após consultar as Notas Fiscais Eletrônicas emitidas a um CNPJ com o Certificado Digital cadastrado, é possível realizar o _download_ dos arquivos XML utilizando para isto o envio da *Manifestação do Destinatário* com a *Confirmação da Operação* para aquela NF-e selecionada. 
