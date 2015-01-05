@@ -1,12 +1,14 @@
 #summary Versões do sistema
 
-=== Próxima versão ===
+=== 15.01.05 ===
+  * Data 05/01/2015
+  * *Última versão liberada.*
+  * *Versão mínima vigente.*
   * Consolidação das alterações realizadas na versão 14.12.09
-  * A versão mínima vigente passará da versão 14.08.06 para esta versão.
+  * Novo: Consulta as Notas Fiscais Eletrônicas emitidas para uma Empresa utilizando o Certificado Digital dos tipos A1 ou A3. 
 
 === 14.12.09 ===
   * Data 30/12/2014
-  * *Última versão liberada.*
   * Interface: Melhorias na tela principal para rapidez no primeiro acesso ao sistema.
   * Interface: Alterado a opção padrão da impressão da NF-e por arquivo individual e não mais por pasta.
   * Interface: Corrigido a escolha do arquivo XML a imprimir.
@@ -25,7 +27,6 @@
   * NFC-e: Adição do grupo infAdic (Informações adicionais). 
   * NF-e: Correção na formação do tipo de impressão da DANFe (tpImp).
   * Instalador: Incluído uma nova tela para aceitação dos termos de utilização do software.
-  * Novo: Consulta as Notas Fiscais Eletrônicas emitidas para um CNPJ utilizando o Certificado Digital dos tipos A1 ou A3. 
 
 === 14.12.08 ===
   * Data 08/12/2014
@@ -40,7 +41,6 @@
 
 === 14.08.06 ===
   * Data 06/08/2014
-  * *Versão mínima vigente.*
   * NF-e: Correção do layout do Portal da NF-e alterado pela Receita Federal dia 06/08/2014.
 
 === 14.06.04 ===
