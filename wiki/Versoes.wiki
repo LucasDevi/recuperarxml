@@ -1,11 +1,12 @@
 #summary Versões do sistema
 
 === 15.01.05 ===
-  * Data 05/01/2015
+  * Data 08/01/2015
   * *Última versão liberada.*
   * *Versão mínima vigente.*
   * Consolidação das alterações realizadas na versão 14.12.09
   * Novo: Consulta as Notas Fiscais Eletrônicas emitidas para uma Empresa utilizando o Certificado Digital dos tipos A1 ou A3. 
+  * NF-e/NFC-e: Melhorias na performance.
 
 === 14.12.09 ===
   * Data 30/12/2014
