@@ -6,7 +6,8 @@
   * *Versão mínima vigente.*
   * Consolidação das alterações realizadas na versão 14.12.09
   * Novo: Consulta as Notas Fiscais Eletrônicas emitidas para uma Empresa utilizando o Certificado Digital dos tipos A1 ou A3. 
-  * NF-e/NFC-e: Melhorias na performance.
+  * NF-e: Melhorias na performance.
+  * NFC-e: Melhorias na performance.
 
 === 14.12.09 ===
   * Data 30/12/2014
