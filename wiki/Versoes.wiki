@@ -1,8 +1,16 @@
 #summary Versões do sistema
 
+=== 15.02.03 ===
+  * Data 03/02/2015
+  * *Última versão liberada.*
+  * NF-e: Correção na captura da tag tpNF.
+  * NF-e: Correção na formatação da data do protocolo de autorização e na data de emissão da NF-e (2.00 e 3.10).
+  * NF-e: Correção na captura da tag vProd.
+  * NF-e: Correção na captura da tag CPF/CNPJ do transportador.
+  * Consulta NF-e Destinada: Exportação do resultado da consulta em Excel, CSV, Texto, Word e HTML.
+
 === 15.01.30 ===
   * Data 30/01/2015
-  * *Última versão liberada.*
   * NF-e: Melhorias na performance.
 
 === 15.01.05 ===
