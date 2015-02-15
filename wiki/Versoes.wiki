@@ -1,8 +1,12 @@
 #summary Versões do sistema
 
+=== 15.02.16 ===
+  * Data 16/02/2015
+  * *Última versão liberada.*
+  * Correções na inicialização do sistema.
+
 === 15.02.03 ===
   * Data 03/02/2015
-  * *Última versão liberada.*
   * NF-e: Correção na captura da tag tpNF.
   * NF-e: Correção na formatação da data do protocolo de autorização e na data de emissão da NF-e (2.00 e 3.10).
   * NF-e: Correção na captura da tag vProd.
