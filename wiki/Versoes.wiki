@@ -1,8 +1,12 @@
 #summary Versões do sistema
 
+=== 15.02.18 ===
+  * Data 18/02/2015
+  * *Última versão liberada.*
+  * Primeiro teste para atualização automática do software. Utilizando o arquivo RecuperarXMLUpdateHelper.exe localizado na mesma pasta do Software.
+
 === 15.02.16 ===
   * Data 16/02/2015
-  * *Última versão liberada.*
   * Correções na inicialização do sistema.
 
 === 15.02.03 ===
