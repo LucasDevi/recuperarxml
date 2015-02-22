@@ -1,14 +1,14 @@
 #summary Versões do sistema
 
 
-=== 15.02.20 (à liberar) ===
-  * Data 20/02/2015
+=== 15.02.23 ===
+  * Data 23/02/2015
+  * *Última versão liberada.*
   * Atualização automática do software quando a versão em utilização é menor que a versão mínima.
   * *Acesso livre ao download do XML até 01/05/2015 23:59*
 
 === 15.02.18 ===
   * Data 18/02/2015
-  * *Última versão liberada.*
   * Primeiro teste para atualização automática do software. Utilizando o arquivo RecuperarXMLUpdateHelper.exe localizado na mesma pasta do Software.
 
 === 15.02.16 ===
