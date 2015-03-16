@@ -1,0 +1,31 @@
+Após iniciado o sistema pela primeira vez, o sistema registra o computador e disponibiliza 1 ano ou 5 downloads de arquivos XML sem custos, após este período o sistema ficará com algumas funcionalidades bloqueadas, uma delas é a baixa dos arquivos XML.
+
+Na contratação de um plano obtém-se a liberação total e sem limites de downloads, obedecendo o período do plano contratado. Vejamos os planos:
+
+  * 1 mês R$ 30,00
+  * 3 meses R$ 70,00
+  * 6 meses R$ 130,00
+  * 12 meses R$ 250,00
+
+(Clique sobre a imagem do Pag Seguro para o plano desejado no [site](http://recuperarxml.wix.com/recuperarxml))
+
+### Após o pagamento ###
+
+O pagamento para a utilização do RecuperarXML é de intermediação do Pag Seguro, ou seja, seu pagamento será para o Pag Seguro da UOL.
+
+No dia seguinte da transação bancária, o Pag Seguro informa o sistema RecuperarXML sobre o seu pagamento e, automaticamente o sistema altera a data de vencimento do licenciamento no seu computador.
+
+O sistema compara o e-mail cadastrado no sistema com o e-mail que efetuou o pagamento para realizar a liberação. Observando que a identificação do computador é único e não é recomendado inserir o mesmo e-mail em mais de um computador.
+
+### O que é Pag Seguro ###
+
+O site Pag Seguro (http://www.pagseguro.com.br) é uma empresa da UOL (http://www.uol.com.br) com renome nacional e internacional em serviços de internet e oferece total segurança para pagamentos pela internet.
+
+### Formas de pagamento ###
+
+O Pag Seguro oferece as seguintes formas de pagamento:
+
+  * Cartão de crédito
+  * Boleto bancário
+  * Débito online
+  * Depósito em conta
