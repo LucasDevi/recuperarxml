@@ -1,7 +1,0 @@
-#summary Atribuição de código
-
-Parte do software RecuperarXML são atribuições de empresas e projetos [http://pt.wikipedia.org/wiki/Software_livre open source] que contribuíram com código-fonte, tais como:
-
-  * [http://acbr.sourceforge.net ACBr] - Automação Comercial Brasil. Licença LGPL.
-
-  * [http://www.fortesreport.com.br Fortes Report]. Licença GPL.
