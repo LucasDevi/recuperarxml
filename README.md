@@ -4,5 +4,5 @@
 * Necessário a instalação do componente ACBr (sf.net/projects/acbr)
 
 
-### Website: http://recuperarxml.github.io/
-### Documentação: https://github.com/recuperarxml/recuperarxml.github.io/wiki
+##### Website: http://recuperarxml.github.io/
+##### Documentação: https://github.com/recuperarxml/recuperarxml.github.io/wiki
