@@ -1,19 +1,16 @@
 ===================================================
-|LOGO| RecuperarXML |BADGE_DOWNLOADS| |BADGE_VERSION|
+RecuperarXML |BADGE_DOWNLOADS| |BADGE_WEBSITE|
 ===================================================
 
-.. |LOGO| image:: https://raw.githubusercontent.com/geduldig/TwitterAPI/master/logo.png 
-   :height: 50
 .. |BADGE_DOWNLOADS| image:: https://img.shields.io/pypi/dm/TwitterAPI.svg
    :target: https://dl.dropboxusercontent.com/s/871nfv2xm7fr8go/InstaladorRecuperarXML.exe?dl=1&token_hash=AAEcxh_88qQGAJcX0SN-OVv2JVnsIRDKoaRRWtabOylbNA
-.. |BADGE_VERSION| image:: http://img.shields.io/pypi/v/TwitterAPI.svg
+.. |BADGE_WEBSITE| image:: http://img.shields.io/pypi/v/TwitterAPI.svg
    :target: http://recuperarxml.github.io
+
    
-      
-* Exemplo de como gerar o arquivo XML da NF-e (Nota Fiscal Eletronica).
+* Exemplo de como gerar o arquivo XML da NF-e (Nota Fiscal Eletrônica).
 * Compilado inicialmente para Delphi XE ou superior.
-* Necessario a instalacao do componente ACBr (sf.net/projects/acbr)
-
-
-# Website: http://recuperarxml.github.io/
-# Documentacao: https://github.com/recuperarxml/recuperarxml.github.io/wiki
+* Contribua com melhorias e manutenção criando pull requests e issues.
+* Necessário a instalação do componente ACBr (http://sf.net/projects/acbr)
+ 
+* Versão completa visite: http://recuperarxml.github.io/
