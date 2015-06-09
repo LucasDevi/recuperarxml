@@ -11,7 +11,7 @@ RecuperarXML |BADGE_DOWNLOADS| |BADGE_WEBSITE|
 * Exemplo de como gerar o arquivo XML da NF-e (Nota Fiscal Eletrônica).
 * Compilado inicialmente para Delphi XE ou superior.
 * Contribua com melhorias e manutenção criando pull requests e issues.
-* Necessário a instalação do componente ACBr (sf.net/projects/acbr)
+* Necessário a instalação do componente ACBr (http://sf.net/projects/acbr)
  
 * Versão completa visite: http://recuperarxml.github.io/
 
