@@ -30,9 +30,9 @@ type
     procedure FormShow(Sender: TObject);
     procedure BtCloseClick(Sender: TObject);
     procedure WebBrowserProgressChange(ASender: TObject; Progress, ProgressMax: Integer);
-    {$IFDEF VER130}
+    {$IFDEF VER150} // Delphi 7
      procedure WebBrowserDocumentComplete(ASender: TObject; const pDisp: IDispatch; var URL: OleVariant);
-    {$ELSE}
+    {$ELSE} // > Delphi XE
      procedure WebBrowserDocumentComplete(ASender: TObject; const pDisp: IDispatch; const URL: OleVariant);
     {$ENDIF}
     procedure DeleteIECache;
@@ -101,9 +101,9 @@ begin
    Close;
 end;
 
-{$IFDEF VER130}
+{$IFDEF VER130} // Delphi 7
 procedure TFfGERARXML.WebBrowserDocumentComplete(ASender: TObject; const pDisp: IDispatch; var URL: OleVariant);
-{$ELSE}
+{$ELSE} // > Delphi XE
 procedure TFfGERARXML.WebBrowserDocumentComplete(ASender: TObject; const pDisp: IDispatch; const URL: OleVariant);
 {$ENDIF}
 var

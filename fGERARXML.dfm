@@ -17,7 +17,7 @@ object FfGERARXML: TFfGERARXML
   object LabelChavedeAcesso: TLabel
     Left = 22
     Top = 145
-    Width = 130
+    Width = 122
     Height = 19
     Caption = 'Chave de acesso:'
     Font.Charset = DEFAULT_CHARSET
