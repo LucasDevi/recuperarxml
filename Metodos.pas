@@ -26,6 +26,7 @@ function RemoveInvalidChar(ADataHora : string) : string;
 function SeparaAte(Chave, Texto : AnsiString; var Resto: AnsiString): String;
 function LerCampo(Texto, NomeCampo: string; Tamanho : Integer = 0): string;
 function ConverteStrToNumero( Valor : String; TrocaPonto : Boolean = False ) : Real;
+function FindText(Componente: TMemo; const aPatternToFind: String): Boolean;
 
 var Reg: TRegistry;
 
@@ -192,6 +193,11 @@ begin
      Result := StrToFloatDef(StringReplace(Valor,FormatSettings.ThousandSeparator,',',[rfReplaceAll]),0)
   else
      Result := StrToFloatDef(StringReplace(Valor,FormatSettings.ThousandSeparator,'',[rfReplaceAll]),0);
+end;
+
+function FindText(Componente: TMemo; const aPatternToFind: String): Boolean;
+begin
+  Result := (pos(aPatternToFind, Componente.Text) > 0);
 end;
 
 end.
