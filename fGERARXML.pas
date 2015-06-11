@@ -143,7 +143,7 @@ begin
          end;
       end
       else
-      if WebBrowser.LocationURL = 'http://www.nfe.fazenda.gov.br/portal/consultaCompleta.aspx?tipoConteudo=XbSeqxE8pl8=' then
+      if (WebBrowser.LocationURL = 'http://www.nfe.fazenda.gov.br/portal/consultaCompleta.aspx?tipoConteudo=XbSeqxE8pl8=') then
       begin
          textoNFe := WebBrowser.Document as IHTMLDocument2;
          repeat
@@ -183,14 +183,17 @@ begin
             i := i + 1;
          end;
 
-         try
-            if FileExists(GerarXML(Memo2.Lines.Text, DirXML)) then
-               lblStatus.Caption := 'Importado'
-            else lblStatus.Caption := 'Não Importado, tente novamente';
-            ProgressBar1.Position := 0;
-            WebBrowser.Stop;
-         except
-            raise
+         if not(FindText(Memo2, 'NF-e INEXISTENTE na base nacional')) then
+         begin
+            try
+               if FileExists(GerarXML(Memo2.Lines.Text, DirXML)) then
+                  lblStatus.Caption := 'Importado'
+               else lblStatus.Caption := 'Não Importado, tente novamente';
+               ProgressBar1.Position := 0;
+               WebBrowser.Stop;
+            except
+               raise
+            end;
          end;
       end
       else
